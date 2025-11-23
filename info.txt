@@ -1,0 +1,3 @@
+mix compile
+ies -S mix
+Example.Hello
